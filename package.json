@@ -1,0 +1,8 @@
+{
+  "name": "com.seyself.mwul.core",
+  "author": "Michiyasu Wada",
+  "version": "1.0.0",
+  "displayName": "MWUL",
+  "description": "MW Unity Library",
+  "unity": "2021.3"
+}
